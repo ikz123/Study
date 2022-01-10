@@ -4,3 +4,7 @@
 
 ## Python
 * 기초 학습
+* Crawling, ML_DL, Pandas, Matplotlib ...
+
+## R
+* 통계, 시각화, 분석 ...
