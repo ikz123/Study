@@ -13,3 +13,7 @@
 ## SQL
 * 기초학습
 * DDL, DML, Spark ...
+
+
+## 환경
+* Linux, Centos, jupyter notebook, Python
