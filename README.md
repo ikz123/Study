@@ -16,4 +16,7 @@
 
 
 ## 환경
-* Linux, Centos, jupyter notebook, Python
+* Linux
+* Centos
+* jupyter notebook
+* Python
