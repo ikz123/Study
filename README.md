@@ -18,5 +18,5 @@
 ## 환경
 * Linux
 * Centos
-* jupyter notebook
+* jupyter-notebook
 * Python
