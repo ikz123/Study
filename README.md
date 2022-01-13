@@ -18,5 +18,5 @@
 ## 환경
 * Linux - Centos
 * AWS - EC2, RDBMS
-* Jupyter-notebook
+* Jupyter notebook
 * Python, R, SQL
