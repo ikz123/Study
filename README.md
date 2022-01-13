@@ -4,19 +4,19 @@
 
 ## Python
 * 기초 학습
-* Crawling, ML_DL, Pandas, Matplotlib ...
+* 웹 크롤링, 데이터분석, 시각화, 머신러닝 & 딥러닝 ...
 
 ## R
 * 기초 학습
-* 통계, 시각화, 분석 ...
+* 기술통계, 분석 시각화 ...
 
 ## SQL
 * 기초학습
-* DDL, DML, Spark ...
+* DDL, DML, 쿼리, Spark ...
 
 
 ## 환경
-* Linux
-* Centos
+* Linux - Centos
+* AWS - EC2, RDBMS
 * Jupyter-notebook
-* Python
+* Python, R, SQL
